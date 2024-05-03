@@ -1,6 +1,6 @@
 # Where to open a new coffee shop?
 
-![Starbucks_Coffee](https://s41230.pcdn.co/wp-content/uploads/2021/01/vegan-plant-based-starbuckers-greener-building-header.jpg)
+![Starbucks_Coffee](data/starbucks_shop.jpg)
 
 ## 📖 Background
 
