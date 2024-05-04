@@ -48,4 +48,4 @@ Provide your client a list of neighborhoods in Denver where they should consider
 **NOTE:** This project is a Datacamp Competition. You can reach the competition page via [Where to open a new coffee shop?](https://app.datacamp.com/learn/competitions/denver-coffee-shop)
 
 ## ℹ️ For More Information
-I wrote a Medium Article about the project steps. If you want a detailed project explanation, you must check my [article](https://ataozarslan.medium.com/).
+I wrote a Medium Article about the project steps. If you want a detailed project explanation, you must check my [article](https://ataozarslan.medium.com/a-denver-case-study-where-to-open-a-new-coffee-shop-2bcb8d9e9722).
